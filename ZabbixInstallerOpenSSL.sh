@@ -128,6 +128,7 @@ echo
 echo "URL : https://$local_ip/"
 echo "Default Web Username : Admin"
 echo "Default Web Password : zabbix"
+echo "Default Zabbix User : zabbix"
 echo "MariaDB Password : $maria_root_password"
 echo "ZabbixDB Password : $zabbix_db_password"
 echo
